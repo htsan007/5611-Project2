@@ -4,6 +4,7 @@
 ***Cloth simulation overview video:***
 ---
 {% include youtube.html id="OI_T9T9jaNA" %}
+
 ---
 
 **Cloth timestamps/list of attempted features:**
@@ -84,6 +85,7 @@ Fluid:
 
 *Source code:*
 <a href= "CSCI5611_Project_1.pde" Cloth code>Download Game Code</a>
+
 <a href= "CSCI5611_Project_1.pde" Fluid code>Download Game Code</a>
 
 Give credits here, sources, blah blah blah
