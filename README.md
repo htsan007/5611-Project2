@@ -97,3 +97,5 @@ The fluid simulation background texture was sourced from: <a href="https://www.v
 
 The cloth flag texture was sourced from: <a href="https://www.freepik.com/free-vector/illustration-usa-flag_2807790.htm#query=american%20flag&position=0&from_view=keyword&track=ais "> Freepik </a>
 
+See the full repository <a href="https://github.com/htsan007/5611-Project2/tree/main "> here </a>
+
