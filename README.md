@@ -1,4 +1,4 @@
-# 5611-Project2
+
 By: Harvey Tsang
 
 ***Cloth simulation overview video:***
