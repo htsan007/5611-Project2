@@ -72,14 +72,14 @@ Cloth:
 
 |Start screen:          | Mid simulation:          |Collision with ball:    | 
 |-------------------------|-------------------------|-------------------------------------|
-|<img src="./docs/assets/cloth start.JPG" width="200" height="300"> | <img src="./docs/assets/cloth mid scene.JPG" width="200" height="300"> |  <img src="./docs/assets/cloth collision.JPG" width="200" height="300">  |       
+|<img src="./docs/assets/cloth start.JPG" width="300" height="300"> | <img src="./docs/assets/cloth mid scene.JPG" width="300" height="300"> |  <img src="./docs/assets/cloth collision.JPG" width="300" height="300">  |       
 
 Fluid:
 -
 
 |Start screen:          | Mid simulation:          |After interaction:    | 
 |-------------------------|-------------------------|-------------------------------------|
-|<img src="./docs/assets/fluid start.JPG" width="200" height="300"> | <img src="./docs/assets/fluid mid.JPG" width="200" height="300"> |  <img src="./docs/assets/fluid interacting.JPG" width="200" height="300">  |          
+|<img src="./docs/assets/fluid start.JPG" width="300" height="300"> | <img src="./docs/assets/fluid mid.JPG" width="300" height="300"> |  <img src="./docs/assets/fluid interacting.JPG" width="300" height="300">  |          
 
 
 *Source code:*
