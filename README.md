@@ -26,7 +26,7 @@ For high-quality rendering I added lighting to the scene and also textured the c
 ---
 **Cloth Difficulties:** 
 
-
+A difficult part of implementing the cloth was adding the collision with the ball. Because the cloth nodes are just points, the distance when there is a collision between the ball and a point is simply the ball radius or less. However this seemed resulted in a cases where the cloth slightly phase into the ball instead of sliding off of it, or the triangles making up the cloth would become very sharp and distinct. I fixed this by adding a small constant to the collision detection and node repositioning distance, which provided enough leeway in distance to avoid these cases while still looking natural.
 
 ------
 -----
@@ -89,7 +89,9 @@ Fluid:
 
 <a href= "/Fluid_code/CSCI5611_fluid_sim_2d.pde" download>Download fluid Code</a>
 
-Give credits here, sources, blah blah blah
+The cloth and fluid simulations were written by me. Included in them are the functionalities for each corresponding simulation, as well as a 2D/3D vector class if it was 2D or 3D. Both vector classes were modified based on Professor Guy's original version. I also made use of the provided camera.pde functionality that was provided from class. The cloth simulation and SPH fluid simulation were written using Professor Guy's cloth/fluid slides and code examples as a basis. I also referenced  <a href="https://processing.org/reference/"> Processing documentation </a> to explore built in functions and their functionalities regarding PImage, texturing, mouse/key input, etc.
 
+The fluid simulation background texture was sourced from: <a href="https://www.vecteezy.com/photo/17154821-the-bathroom-faucet-is-turned-off-to-save-water-energy-and-protect-the-environment-water-saving-concept "> Vecteezy </a>
 
+The cloth flag texture was sourced from: <a href="https://www.vecteezy.com/photo/17154821-the-bathroom-faucet-is-turned-off-to-save-water-energy-and-protect-the-environment-water-saving-concept "> Vecteezy </a>
 
