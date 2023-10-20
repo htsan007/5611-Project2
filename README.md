@@ -84,8 +84,8 @@ Fluid:
 |-------------------------|-------------------------|-------------------------------------|
 |<img src="./docs/assets/fluid start.JPG" width="300" height="300"> | <img src="./docs/assets/fluid mid.JPG" width="300" height="300"> |  <img src="./docs/assets/fluid interacting.JPG" width="300" height="300">  |          
 
-
-*Source code:*
+---
+***Source code:***
 
 <a href= "/Cloth_code/CSCI5611_Proj2_3D_cloth.pde" download>Download cloth Code</a>
 
@@ -97,5 +97,5 @@ The fluid simulation background texture was sourced from: <a href="https://www.v
 
 The cloth flag texture was sourced from: <a href="https://www.freepik.com/free-vector/illustration-usa-flag_2807790.htm#query=american%20flag&position=0&from_view=keyword&track=ais "> Freepik </a>
 
-See the full repository <a href="https://github.com/htsan007/5611-Project2/tree/main "> here </a>
+See the full project repository <a href="https://github.com/htsan007/5611-Project2/tree/main "> ***here*** </a>
 
