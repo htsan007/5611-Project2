@@ -18,6 +18,7 @@ A pinball game was created with working flippers, pause, play and restart functi
 
 The score is displayed at the top during the game, and once again on the end game screen. Pinball to circle-obstacle collision gives 20 points, while pinball to brown-rectangle gives 10. No other obstacles give points.
 
+---
 **High-quality Rendering**
 
 ---
