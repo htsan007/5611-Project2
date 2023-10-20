@@ -20,7 +20,7 @@ The score is displayed at the top during the game, and once again on the end gam
 
 **High-quality Rendering**
 
-
+---
 Cloth Difficulties: 
 
 ---
@@ -45,3 +45,8 @@ The score is displayed at the top during the game, and once again on the end gam
 
 ---
 **User interaction:**
+
+---
+Fluid Difficulties:
+
+
