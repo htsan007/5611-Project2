@@ -84,9 +84,10 @@ Fluid:
 
 
 *Source code:*
-<a href= "CSCI5611_Project_1.pde" Cloth code>Download Game Code</a>
 
-<a href= "CSCI5611_Project_1.pde" Fluid code>Download Game Code</a>
+<a href= "/Cloth_code/CSCI5611_Proj2_3D_cloth.pde" download>Download cloth Code</a>
+
+<a href= "/Fluid_code/CSCI5611_fluid_sim_2d.pde" download>Download fluid Code</a>
 
 Give credits here, sources, blah blah blah
 
