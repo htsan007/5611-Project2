@@ -2,8 +2,8 @@
 
 
 **Cloth simulation overview video:**
+---
 {% include youtube.html id="IW7sk3QoJFE" %}
-
 ---
 
 **Timestamps and List of attempted features:**
@@ -26,9 +26,8 @@ Cloth Difficulties:
 
 
 **Fluid (SPH) simulation overview video:**
-
+---
 {% include youtube.html id="IW7sk3QoJFE" %}
-
 ----
 
 **Timestamps and List of attempted features:**
