@@ -38,7 +38,7 @@ A difficult part of implementing the cloth was adding the collision with the bal
 
 ----
 
-**Timestamps and List of attempted features:**
+**Fluid timestamps/list of attempted features:**
 ---
 **SPH Fluid simulation:** 0:00 - 0:31
 
@@ -67,7 +67,7 @@ I had some trouble at first with making the fluid flow realisticly. Everything w
 ----
 ----
 
-**Image Captures**
+***Image Captures***
 ---
 
 Cloth:
