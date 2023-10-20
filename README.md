@@ -65,11 +65,22 @@ I had some trouble at first with making the fluid flow realisticly. Everything w
 
 ----
 ----
-**Screen Captures**
+**Image Captures**
+---
+Cloth:
 -
-Cloth: <img src="./docs/assets/gamestart.JPG" width="200" height="300">
 
-Fluid: <img src="./docs/assets/gamestart.JPG" width="200" height="300">
+|Start screen:          | Mid simulation:          |Collision with ball:    | 
+|-------------------------|-------------------------|-------------------------------------|
+|<img src="./docs/assets/cloth start.JPG" width="200" height="300"> | <img src="./docs/assets/cloth mid scene.JPG" width="200" height="300"> |  <img src="./docs/assets/cloth collision.JPG" width="200" height="300">  |       
+
+Fluid:
+-
+
+|Start screen:          | Mid simulation:          |After interaction:    | 
+|-------------------------|-------------------------|-------------------------------------|
+|<img src="./docs/assets/fluid start.JPG" width="200" height="300"> | <img src="./docs/assets/fluid mid.JPG" width="200" height="300"> |  <img src="./docs/assets/fluid interacting.JPG" width="200" height="300">  |          
+
 
 *Source code:*
 <a href= "CSCI5611_Project_1.pde" Cloth code>Download Game Code</a>
