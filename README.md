@@ -3,8 +3,7 @@
 
 ***Cloth simulation overview video:***
 ---
-{% include youtube.html id="IW7sk3QoJFE" %}
-
+{% include youtube.html id="OI_T9T9jaNA" %}
 ---
 
 **Timestamps and List of attempted features:**
@@ -30,7 +29,7 @@ The score is displayed at the top during the game, and once again on the end gam
 
 ***Fluid (SPH) simulation overview video:***
 ---
-{% include youtube.html id="IW7sk3QoJFE" %}
+{% include youtube.html id="jDHRV6kOOW4" %}
 
 ----
 
