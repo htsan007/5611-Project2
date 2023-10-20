@@ -1,9 +1,10 @@
 # 5611-Project2
 
+
 **Cloth simulation overview video:**
 {% include youtube.html id="IW7sk3QoJFE" %}
 
-----
+---
 
 **Timestamps and List of attempted features:**
 ---
@@ -21,7 +22,8 @@ The score is displayed at the top during the game, and once again on the end gam
 
 Cloth Difficulties: 
 
---------
+---
+
 
 **Fluid (SPH) simulation overview video:**
 
